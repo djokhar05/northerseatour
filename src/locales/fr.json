@@ -1,0 +1,110 @@
+{
+  "title": "Vue 3 i18n",
+  "description": "Un exemple Vue i18n next avec vue-i18n-next",
+  "homeLink": "Domicile",
+  "ratesLink": "tarifs hélicoptère",
+
+  "homePageSliderHeaderMain": "Vols en hélicoptère d'une simple pression sur un bouton",
+  "homePageSliderSmallerText": "Survolez le trafic et économisez 80% de votre temps de trajet.",
+  "homePageSliderButton": "Consultez nos tarifs",
+  
+  "aboutPageSliderHeaderMain": "Tours en hélicoptère avec des expériences exaltantes",
+  "aboutPageSliderSmallerText": "Profitez des excursions en avion comme jamais auparavant",
+  "aboutPageSliderButton": "",
+
+
+  "homeViewHeader": "Comment fonctionnent les tours en hélicoptère abordables pour les particuliers",
+  "homeViewDescription": "Les promenades en hélicoptère ne sont plus un luxe, c'est une option.",
+  "homeViewCard1": "Arrivez à l’heure pour le vol à l’héliport le plus proche de chez vous.",
+  "homeViewCard2": "Survolez la circulation avec des vues incomparables dans une position confortable",
+  "homeViewCard3": "Arrivez à destination, plus rapidement, en toute sécurité et avec style.",
+  "ImageTextHeader": "Voyagez avec style",
+  "ImageTextContent": "Chaque voyage est une expérience exclusive remplie de confort et des meilleurs sites.",
+  "ImageTextHeader2": "Arrivez plus vite",
+  "ImageTextContent2": "Voyagez au-dessus de la circulation et arrivez à destination plus rapidement.",
+  "ImageTextHeader1_2": "Voyage sécurisé",
+  "ImageTextContent1_2": "Avec les préoccupations croissantes en matière d’insécurité qui accompagnent les voyages par la route, vous avez une chose de moins à craindre lorsque vous déménagez avec Nothern-Seatour..",
+  "ImageTextHeader2_2": "Prix abordable",
+  "ImageTextContent2_2": "Nos tarifs sont abordables vous permettant de vous concentrer sur les choses les plus importantes.",
+  "medicalInfoHeader": "NOUS OFFRONS ÉGALEMENT L’ÉVACUATION MÉDICALE PAR HÉLICOPTÈRE",
+  "medicalInfoParagraph1": "En cas d’accident : évacuation aérienne Le service d’hélicoptère d’urgence ER24 fournit des soins médicaux spécialisés aux patients gravement blessés au moment où ils en ont besoin.",
+  "medicalInfoParagraph2": "Les hélicoptères médicaux ER24 AER24 sont équipés d’équipements médicaux de pointe et dotés d’un équipage paramédical hautement qualifié; L’objectif étant de fournir les meilleurs soins possibles aux patients au moment où ils en ont le plus besoin.",
+  "medicalInfoParagraph3": "Les patients sont transportés par avion à partir d’une variété d’endroits et de types d’incidents différents, y compris les accidents de la route, les incidents de quasi-noyade, les accidents de piétons, les incidents liés à la criminalité et les patients ayant des urgences médicales. Un centre de transport interhospitalier est également disponible pour les patients gravement malades qui doivent être transférés entre deux établissements médicaux pour un traitement spécialisé.",
+  "faq1": "Ai-je besoin d’un compte Northern-Seatour pour réserver un voyage?",
+  "answer1": "Non, vous ne",
+  "faq2": "Puis-je annuler mon voyage?",
+  "answer2": "Si, tu peux. Toutefois, les annulations et les modifications peuvent être soumises à des frais administratifs. Nous vous encourageons à planifier à l’avance pour éviter des modifications évitables des horaires de vol ou des annulations. Vous pouvez consulter notre politique d’annulation ici.",
+  "faq3": "Comment puis-je modifier mon voyage?",
+  "answer3": "Annulez d’abord votre voyage déjà réservé dans la section Voyages à venir de l’application et réservez simplement votre voyage pour une heure appropriée en utilisant votre remboursement du voyage annulé. Ceci est soumis à la disponibilité des sièges. Veuillez noter que certains frais peuvent s’appliquer.",
+  
+  "aboutHeader1": "Chez Nothern-Seatours, notre objectif est de transformer le monde; Développer l’imagination humaine sur de nouvelles façons de se déplacer.",
+  "aboutContent1": "Avec une présence sur 3 continents, nous diffusons continuellement notre vision d’être le centre d’innovation de la mobilité du monde, déballant rapidement les opportunités pour une planète plus connectée et moins encombrée. Cela est évident dans notre réactivité aux défis mondiaux en matière de transport.",
+  "aboutHeader2": "En fournissant une solution de transport qui explore un moyen plus rapide et plus efficace de se déplacer, nous voulons que les gens se sentent habilités à passer plus de temps à faire des choses qu’ils apprécient vraiment dans la vie.",
+  "aboutContent2": "Tout le monde mérite de vivre mieux, et c’est l’avenir que nous travaillons à construire. Un monde où le mouvement existe comme un continuum, le rendant plus accessible, sûr, transparent et abordable pour tous.",
+  "aboutHeader3": "Paroles du PDG. Heure!",
+  "aboutContent3": "Le cadeau le plus inestimable mais mal servi à l’humanité. Chaque jour, les humains vivent sans réelle appréciation du temps perdu. Dans de nombreuses villes urbaines, les gens perdent jusqu’à 40% de leur vie quotidienne active dans la circulation. Cependant, les gens ne sont pas les seuls usagers de la route. Les choses, y compris les biens essentiels tels que la nourriture, partagent également cette charge, rendant ainsi la vie et la logistique difficiles.",
+
+  "ratesListHeader": "Toutes les choses à faire!",
+  "ratesList1": "Excursions en avion, hélicoptère et baloon",
+  "ratesList2": "Croisières, sorties sur l’eau et voilier",
+  "ratesList3": "Visites culturelles et thématiques",
+  "ratesList4": "Excursions d’une journée et excursions",
+  "ratesList5": "Activités de plein air",
+  "ratesList6": "Visites et visites touristiques",
+  "ratesList7": "Visites personnalisées comme arrangé",
+
+
+  "from": "De",
+  "perAdult": "par adulte",
+  "singlePassenger": "Passager unique",
+  "cancellation": "Annulation gratuite",
+  "recommendation": "Recommandé par",
+  "travellers": "des voyageurs",
+
+  "ratesPort1Header" : "1. Port de Felixstowe excursions privées ",
+  "ratesPort1FlightDuration": "25 à 27 minutes",
+  "ratesPort1FlightDescription": "Visitez le port de Felixstowe des visites privées",
+
+  "ratesPort2Header" : "2. Excursions à Port de Rotterdam ",
+  "ratesPort2FlightDuration": "25 à 27 minutes",
+  "ratesPort2FlightDescription": "Vivez un incroyable vol en hélicoptère à Rotterdam avec une nuit en cabine de style occidental.",
+
+  "ratesPort3Header" : "3. Port d’Anvers-Bruges",
+  "numberOfPassengersAntwerp": "1-4 passagers",
+  "ratesPort3FlightDuration": "45-270 minutes",
+  "ratesPort3FlightDescription": "Découvrez Anvers-Bruges lors d’une excursion d’une journée complète en fonction de votre lieu d’origine, qui peut également être personnalisée à votre goût.",
+
+  "ratesPort4Header" : "4. Port de Hambourg / Bremerhaven Visites privées ",
+  "numberOfPassengersHamburg": "1-6 passagers",
+  "ratesPort4FlightDuration": "55 to 270 minutes",
+  "ratesPort4FlightDescription": "S’adapter à un voyage au port de Hambourg peut être un défi si vous restez déjà essayer d’autres expériences.",
+
+  "ratesPort5Header" : "5. Port de Marseille Circuits privés - Medvac - Évacuation aérienne",
+  "numberOfPassengersMarseille": "1-12 passagers (ambulance aérienne)",
+  "ratesPort5FlightDuration": "55-200 minutes",
+  "ratesPort5FlightDescription": "Partez pour une frénésie d’évacuation et voyez dans la vraie vie comment de tels paysages sont gérés/joués! Vous ne pouvez pas le regretter!",
+
+  "ratesPort6Header" : "6. Port d’Algésiras ( Andalousie) / Port de Gioia Tauro ( Méditerranée Forfaits spéciaux )",
+  "ratesPort6FlightDuration": "45-270 minutes",
+  "ratesPort6FlightDescription": "4000 AVIS CINQ ÉTOILES SUR TRIPADVISOR! PETITS GROUPES DE 10 PERSONNES OU MOINS! Visitez notre page TA pour lire nos fabuleuses critiques!",
+
+  "ratesPort7Header" : "7. MONTE-CHARGES",
+  "numberOfPassengersCargo": "La capacité de levage et le prix varient",
+  "ratesPort7FlightDuration": "45-1000 minutes",
+  "ratesPort7FlightDescription": "Explorez les merveilles modernes en une journée lors de cette excursion d’une journée en petit groupe dans de grandes excursions en bus.",
+
+  "ratesPort8Header" : "8. Ports de lille Private tours / Evacuation / medvac",
+  "numberOfPassengersLille": "1-10 Passagers",
+  "ratesPort8FlightDuration": "25 to 270 Minutes",
+  "ratesPort8FlightDescription": "Partez pour une frénésie d’évacuation et voyez dans la vraie vie comment de tels paysages sont gérés/joués! Vous ne pouvez pas le regretter!",
+
+  "ratesPort9Header" : "9. Port d’Helsinki / Stavanger Visites privées / Évacuation aérienne ( Cargo )",
+  "numberOfPassengersHelsinki": "1-12 Passagers",
+  "ratesPort9FlightDuration": "45-270 minutes",
+  "ratesPort9FlightDescription": "Faites l’expérience de l’évacuation aérienne du point de vue de la création biblique! Depuis plus de 25 ans",
+
+  "ratesPort10Header" : "10. Le port de Göteborg / Port d’Aarhus Évacuations aériennes - fret lourd",
+  "numberOfPassengersGothenBurg": "1-20 Passagers",
+  "ratesPort10FlightDuration": "25 to 570 Minutes",
+  "ratesPort10FlightDescription": "Heavy Cargo Experience à portée de main"
+}

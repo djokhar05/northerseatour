@@ -1,0 +1,107 @@
+{
+  "title": "Vue 3 i18n",
+  "description": "A Vue i18n next example using vue-i18n-next",
+  "homeLink": "Thuis",
+  "ratesLink": "Helikopter tarieven",
+  
+  "homePageSliderHeaderMain": "Helikoptervluchten met één druk op de knop",
+  "homePageSliderSmallerText": "Vlieg over het verkeer en bespaar 80% van uw reistijd.",
+  "homePageSliderButton": "Bekijk onze prijzen",
+
+  "aboutPageSliderHeaderMain": "Helikoptervluchten met opwindende ervaringen",
+  "aboutPageSliderSmallerText": "Enjoy vliegtochten als nooit tevoren",
+  "aboutPageSliderButton": "",
+
+  "homeViewHeader": "Hoe betaalbare helikoptervluchten voor individuen werken",
+  "homeViewDescription": "Helikoptervluchten zijn geen luxe meer, het is een optie.",
+  "homeViewCard1": "Kom op tijd aan voor de vlucht op het dichtstbijzijnde helikopterplatform.",
+  "homeViewCard2": "Vlieg over het verkeer met ongeëvenaarde uitzichten in een comfortabele positie",
+  "homeViewCard3": "Kom sneller, veiliger en in stijl aan op uw bestemming.",
+  "ImageTextHeader1": "Reis in stijl",
+  "ImageTextContent1": "Elke reis is een exclusieve ervaring vol comfort en de beste bezienswaardigheden.",
+  "ImageTextHeader2": "Sneller aankomen",
+  "ImageTextContent2": "Reis boven het verkeer en kom sneller op uw bestemming aan.",  "ImageTextHeader1_2": "Beveiligd reizen",
+  "ImageTextContent1_2": "Met de groeiende onzekerheid die gepaard gaat met reizen over de weg, hoeft u zich geen zorgen te maken wanneer u verhuist met Nothern-Seatours.",
+  "ImageTextHeader2_2": "Betaalbare prijzen",
+  "ImageTextContent2_2": "Onze tarieven zijn betaalbaar, zodat u zich kunt concentreren op de belangrijkere dingen.",
+  "medicalInfoHeader": "WIJ BIEDEN OOK MEDISCHE HELIKOPTER EVACUATIE",
+
+  "medicalInfoParagraph1": "In geval van een ongeval: Luchtevacuatie ER24 Emergency Helicopter Service biedt deskundige medische zorg aan ernstig gewonde patiënten in hun uur van nood.",
+  "medicalInfoParagraph2": "De ER24 AER24 medische helikopters zijn uitgerust met state-of-the-art medische apparatuur en bemand met zeer bekwame paramedische bemanning; het doel is om de best mogelijke zorg te bieden aan patiënten wanneer ze die het meest nodig hebben.",
+  "medicalInfoParagraph3": "Patiënten worden gevlogen van verschillende locaties en incidenttypen, waaronder verkeersongevallen, bijna-verdrinkingsincidenten, voetgangersongevallen, misdaadgerelateerde incidenten en patiënten met medische noodsituaties. Een interhospitale transportfaciliteit is ook beschikbaar voor ernstig zieke patiënten die tussen twee medische faciliteiten moeten worden verplaatst voor gespecialiseerde behandeling.",
+  "faq1": "Heb ik een Northern-Seatour account nodig om een reis te boeken?",
+  "answer1": "Nee! Dat doe je niet",
+  "faq2": "Kan ik mijn reis annuleren?",
+  "answer2": "Ja, dat kan. Annuleringen en wijzigingen kunnen echter onderhevig zijn aan administratieve kosten. We raden u aan om vooruit te plannen om vermijdbare wijzigingen in vluchttijden of annuleringen te voorkomen. U kunt onze annuleringsvoorwaarden hier bekijken.",
+  "faq3": "Hoe wijzig ik mijn reis?",
+  "answer3": "Annuleer eerst uw reeds geboekte reis in het gedeelte Aankomende reizen op de app en boek uw reis eenvoudig om voor een geschikt tijdstip met behulp van uw terugbetaling van de geannuleerde reis. Dit is onder voorbehoud van beschikbaarheid van zitplaatsen. Houd er rekening mee dat er bepaalde toeslagen of toeslagen van toepassing kunnen zijn.",
+  
+  "aboutHeader1": "Bij Nothern-Seatours is het ons doel om de wereld te transformeren; de menselijke verbeeldingskracht uit te breiden op nieuwe manieren van bewegen.",
+  "aboutContent1": "Met aanwezigheid op 3 continenten verspreiden we voortdurend onze visie om de mobiliteitsinnovatiehub van de wereld te zijn, waarbij we snel kansen uitpakken voor een meer verbonden en minder overbelaste planeet. Dit komt tot uiting in onze reactie op wereldwijde uitdagingen in transport.", "aboutHeader2": "Door een transportoplossing te bieden die een snellere en efficiëntere manier van bewegen onderzoekt, willen we dat mensen zich gemachtigd voelen om meer tijd te besteden aan dingen die ze echt waarderen in het leven.",
+  "aboutContent2": "Iedereen verdient het om beter te leven, en dit is de toekomst waar we aan werken. Een wereld waarin beweging bestaat als een continuüm, waardoor het toegankelijker, veiliger, naadloos en betaalbaarder wordt voor iedereen.",
+  "aboutHeader3": "Woorden van de CEO. Tijd!",
+  "aboutContent3": "Het meest onbetaalbare maar onderbediende geschenk aan de mensheid. Elke dag leven mensen zonder echte waardering voor hoeveel tijd er verloren gaat. In veel stedelijke steden verliezen mensen tot 40% van hun actieve dagelijkse leven in het verkeer. Mensen zijn echter niet de enige weggebruikers. Dingen, waaronder essentiële goederen zoals voedsel, delen ook in deze bezwaring en maken het leven en de logistiek moeilijk.",
+
+  "ratesListHeader": "Allemaal dingen om te doen!",
+  "ratesList1": "Lucht, Helikopter ",
+  "ratesList2": "Cruises, zeil- en watertochten",
+  "ratesList3": "Culturele en thematours",
+  "ratesList4": "Dagtochten en excursies",
+  "ratesList5": "Outdoor activiteiten",
+  "ratesList6": "Tours en Bezienswaardigheden",
+  "ratesList7": "Aangepaste tours zoals geregeld",
+
+  "from": "Van",
+  "perAdult": "per volwassene",
+  "singlePassenger": "Enkele passagier",
+  "cancellation": "Gratis annuleren",
+  "recommendation": "Aanbevolen door",
+  "travellers": "Reizigers",
+
+  "ratesPort1Header" : "1. Haven van privé Felixstowe tours ",
+  "ratesPort1FlightDuration": "25 to 27 minuten",
+  "ratesPort1FlightDescription": "Geniet van de haven van privé Felixstowe-tours ",
+  
+  "ratesPort2Header" : "2. Haven van Rotterdam Tours ",
+  "ratesPort2FlightDuration": "25 to 27 minuten",
+  "ratesPort2FlightDescription": "Ervaar een ongelooflijke Rotterdamse helikoptervlucht met een overnachting in een hut in westerse stijl.",
+
+  "ratesPort3Header" : "3. Haven van Antwerpen-Brugge",
+  "numberOfPassengersAntwerp": "1-4 Passagiers",
+  "ratesPort3FlightDuration": "45-270 minuten",
+  "ratesPort3FlightDescription": "Bekijk antwerpen-Brugge op een dagexcursie, afhankelijk van waar je vandaan komt, die ook naar jouw smaak kan worden aangepast.",
+
+  "ratesPort4Header" : "4. Haven van Hamburg / Bremerhaven Privétours ",
+  "numberOfPassengersHamburg": "1-6 Passagiers",
+  "ratesPort4FlightDuration": "55 to 270 minuten",
+  "ratesPort4FlightDescription": "Het inpassen van een reis naar de haven van Hamburg kan een uitdaging zijn als je al andere ervaringen probeert.",
+
+  "ratesPort5Header" : "5. Haven van Marseille Privétours - Medvac - Luchtevacuatie",
+  "numberOfPassengersMarseille": "1-12 Passagiers ( Air Ambulance)",
+  "ratesPort5FlightDuration": "55-200 minuten",
+  "ratesPort5FlightDescription": "Ga op evacuatietocht en zie in het echt hoe dergelijke landschappen worden behandeld / uitgespeeld! Je kunt er geen spijt van krijgen!",
+
+  "ratesPort6Header" : "6. Haven van Algeciras (Andalusië) / Haven van Gioia Tauro (Mediterrane Speciale pakketten)",
+  "ratesPort6FlightDuration": "45-270 minuten",
+  "ratesPort6FlightDescription": "4000 VIJFSTERRENBEOORDELINGEN OP TRIPADVISOR! KLEINE GROEPJES VAN 10 OF MINDER! Bezoek onze TA-pagina om onze fantastische beoordelingen te lezen!",
+
+  "ratesPort7Header" : "7. GOEDERENLIFTEN",
+  "numberOfPassengersCargo": "Hefcapaciteit en prijs variëren",
+  "ratesPort7FlightDuration": "45-1000 minuten",
+  "ratesPort7FlightDescription": "Verken de moderne wonderen in één dag tijdens deze dagtrip met een kleine groepsreis naar drukke grote busreizen.",
+
+  "ratesPort8Header" : "8. Havens van Lille Privérondleidingen / Evacuatie / medvac",
+  "numberOfPassengersLille": "1-10 Passagiers",
+  "ratesPort8FlightDuration": "25 to 270 minuten",
+  "ratesPort8FlightDescription": "Ga op evacuatietocht en zie in het echt hoe dergelijke landschappen worden behandeld / uitgespeeld! Je kunt er geen spijt van krijgen!",
+
+  "ratesPort9Header" : "9. Haven van Helsinki / Stavanger Privérondleidingen / Luchtevacuatie (Cargo)",
+  "numberOfPassengersHelsinki": "1-12 Passagiers",
+  "ratesPort9FlightDuration": "45-270 minuten",
+  "ratesPort9FlightDescription": "Ervaar luchtevacuatie vanuit een Bijbels scheppingsperspectief! Al meer dan 25 jaar",
+
+  "ratesPort10Header" : "10. De haven van Göteborg / Haven van Aarhus Lucht evacuaties - zware lading",
+  "numberOfPassengersGothenBurg": "1-20 Passagiers",
+  "ratesPort10FlightDuration": "25 to 2170 minuten",
+  "ratesPort10FlightDescription": "Heavy Cargo Experience op uw vingertoppen"
+}
